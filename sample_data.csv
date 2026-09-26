@@ -1,0 +1,26 @@
+id,date,activity,category,duration_minutes,description
+1,2026-09-20,Sleep,Sleep,480,Regular night sleep
+2,2026-09-20,DBMS Assignment,Study,120,Chapter 5 ER diagrams
+3,2026-09-20,College Commute,Travel,60,Bus to college and back
+4,2026-09-20,Cricket with friends,Entertainment,90,Evening match
+5,2026-09-20,Laundry,Personal,30,Weekly laundry
+6,2026-09-21,Sleep,Sleep,450,Slightly short night
+7,2026-09-21,Operating Systems Revision,Study,90,Process scheduling notes
+8,2026-09-21,Gym,Personal,45,Strength training
+9,2026-09-21,Netflix,Entertainment,60,One episode
+10,2026-09-21,Commute,Travel,55,Auto to college
+11,2026-09-22,Sleep,Sleep,480,Regular night sleep
+12,2026-09-22,DSA Practice,Study,150,LeetCode problems
+13,2026-09-22,Group Project Meeting,Study,45,Discuss project timeline
+14,2026-09-22,Grocery Shopping,Personal,40,Weekly groceries
+15,2026-09-23,Sleep,Sleep,420,Late night study
+16,2026-09-23,Exam Preparation,Study,180,DBMS mid-sem prep
+17,2026-09-23,YouTube,Entertainment,30,Short break
+18,2026-09-23,Commute,Travel,60,Bus to college and back
+19,2026-09-24,Sleep,Sleep,480,Regular night sleep
+20,2026-09-24,Python Mini Project,Study,140,Tkinter GUI practice
+21,2026-09-24,Cooking,Personal,35,Dinner prep
+22,2026-09-24,Movie,Entertainment,120,Weekend movie with friends
+23,2026-09-25,Sleep,Sleep,460,Regular night sleep
+24,2026-09-25,Library Reading,Study,100,Reference book reading
+25,2026-09-25,Cycling,Other,40,Evening cycling
