@@ -1,12 +1,4 @@
-"""
-analysis.py
------------
-Statistics and analysis functions for time-use records.
 
-All functions take a Pandas DataFrame (as produced by data_manager) and
-return plain Python / NumPy values, so this module has no GUI dependency
-and can be unit tested directly.
-"""
 
 import numpy as np
 import pandas as pd

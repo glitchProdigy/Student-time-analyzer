@@ -1,11 +1,5 @@
-"""
-validation.py
---------------
-Input validation utilities for the Student Time-Use Analyzer.
 
-This module has NO dependency on Tkinter or file handling so it can be
-tested in isolation (see tests/test_app.py).
-"""
+
 
 from datetime import datetime
 

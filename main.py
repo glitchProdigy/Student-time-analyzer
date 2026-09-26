@@ -1,13 +1,3 @@
-"""
-main.py
--------
-Student Time-Use Analyzer - Tkinter GUI and application control.
-
-Run with:  python main.py
-
-This module only handles GUI layout and event wiring. All business logic
-lives in data_manager.py, analysis.py, validation.py and visualization.py.
-"""
 
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -28,10 +18,10 @@ class TimeUseApp(tk.Tk):
         self.geometry("1000x680")
         self.minsize(900, 600)
 
-        # Central data manager instance shared across all tabs
+       
         self.dm = DataManager()
 
-        # Track which record id is currently loaded for editing (None = add mode)
+       
         self.editing_id = None
 
         self._build_ui()

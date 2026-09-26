@@ -1,9 +1,4 @@
-"""
-visualization.py
------------------
-Builds Matplotlib charts for the time-use data and embeds them into a
-Tkinter frame using FigureCanvasTkAgg.
-"""
+
 
 import matplotlib
 matplotlib.use("TkAgg")

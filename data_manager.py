@@ -1,12 +1,3 @@
-"""
-data_manager.py
-----------------
-Handles all persistent storage and CRUD operations for time-use records.
-
-Data is kept in memory as a Pandas DataFrame (self.df) and mirrored to disk
-as a CSV file (default) or JSON file. Corrupted/missing files are handled
-gracefully so the app never crashes on startup.
-"""
 
 import os
 import json
